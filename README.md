@@ -1,3 +1,8 @@
+# Backbone ES6
+If you really like using the ES6 'class' syntactic sugar, and equally like using Backbone, this is the libary for you.
+
+This is based on the [very useful framework](https://github.com/jashkenas/backbone) by the very talented [Jeremy Ashkenas](https://github.com/jashkenas/)
+
      ____                     __      __
     /\  _`\                  /\ \    /\ \                                   __
     \ \ \ \ \     __      ___\ \ \/'\\ \ \____    ___     ___      __      /\_\    ____
